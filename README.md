@@ -39,8 +39,8 @@ Este projeto em Java foi desenvolvido com o objetivo de treinar e aplicar concei
 1. **Banco de Dados:**
    - Faça o download do [arquivo zip](https://drive.google.com/file/d/1x81rApU2cEXzvP0z12pofrlAo_bWkmct/view?usp=sharing) contendo o backup do banco de dados.
    - Descompacte o arquivo e importe o banco de dados utilizando o backup fornecido.
-   - Configure as informações de conexão no arquivo `config.properties`.
-   - Certifique-se de ter o driver JDBC apropriado no classpath.
+   - Feito isso apenas execute o usbw. 
+   - Certifique-se de inserir o login "root", e a senha "usbw".
 
 2. **Compilação e Execução:**
    - Utilize um ambiente de desenvolvimento Java, como Eclipse ou IntelliJ.
