@@ -2,9 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto em Java foi desenvolvido com o objetivo de treinar e aplicar conceitos fundamentais de programação, especialmente no contexto de desenvolvimento de aplicativos desktop. O sistema é uma aplicação simples para gerenciar corridas, envolvendo usuários, motoristas e informações sobre as corridas realizadas. 
-
-Link com [arquivo zip](https://drive.google.com/file/d/1x81rApU2cEXzvP0z12pofrlAo_bWkmct/view?usp=sharing) contendo banco de dados criado.
+Este projeto em Java foi desenvolvido com o objetivo de treinar e aplicar conceitos fundamentais de programação, especialmente no contexto de desenvolvimento de aplicativos desktop. O sistema é uma aplicação simples para gerenciar corridas, envolvendo usuários, motoristas e informações sobre as corridas realizadas.
 
 ## Funcionalidades
 
@@ -39,6 +37,8 @@ Link com [arquivo zip](https://drive.google.com/file/d/1x81rApU2cEXzvP0z12pofrlA
 ## Instruções de Configuração
 
 1. **Banco de Dados:**
+   - Faça o download do [arquivo zip](https://drive.google.com/file/d/1x81rApU2cEXzvP0z12pofrlAo_bWkmct/view?usp=sharing) contendo o backup do banco de dados.
+   - Descompacte o arquivo e importe o banco de dados utilizando o backup fornecido.
    - Configure as informações de conexão no arquivo `config.properties`.
    - Certifique-se de ter o driver JDBC apropriado no classpath.
 
