@@ -1,4 +1,4 @@
-# Projeto de Treinamento em Programação Java
+# Sistema de cadastro de Corridas.
 
 ## Descrição do Projeto
 
