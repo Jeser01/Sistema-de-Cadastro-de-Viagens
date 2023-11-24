@@ -2,7 +2,9 @@
 
 ## Descrição do Projeto
 
-Este projeto em Java foi desenvolvido com o objetivo de treinar e aplicar conceitos fundamentais de programação, especialmente no contexto de desenvolvimento de aplicativos desktop. O sistema é uma aplicação simples para gerenciar corridas, envolvendo usuários, motoristas e informações sobre as corridas realizadas.
+Este projeto em Java foi desenvolvido com o objetivo de treinar e aplicar conceitos fundamentais de programação, especialmente no contexto de desenvolvimento de aplicativos desktop. O sistema é uma aplicação simples para gerenciar corridas, envolvendo usuários, motoristas e informações sobre as corridas realizadas. 
+
+Link com [arquivo zip](https://drive.google.com/file/d/1x81rApU2cEXzvP0z12pofrlAo_bWkmct/view?usp=sharing) contendo banco de dados criado.
 
 ## Funcionalidades
 
